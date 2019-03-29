@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to jenkins integration with nexus and sonarqube  </h1>
+<h1> Hello, Welcome to jenkins webhooks poll scm and build perodically</h1>
 
